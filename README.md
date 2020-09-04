@@ -6,4 +6,4 @@
 2. type ``npm install`` command on terminal
 3. type `` npm start `` command on terminal
 4. after some time you'll have running project
-5. [get-the-live-demo]()
+5. [get-the-live-demo](https://react-detail-page-of-blog-product-page.netlify.app/)
